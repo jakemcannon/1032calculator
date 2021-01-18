@@ -16,3 +16,17 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+
+
+
+
+
+
+###  S3 and route53 tutorials
+
+
+
+https://www.youtube.com/watch?v=K2B339bio5k&ab_channel=Hands-onAWS
+
+https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html#root-domain-walkthrough-create-buckets
+
